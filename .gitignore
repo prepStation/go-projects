@@ -1,0 +1,7 @@
+simple_bank/*.log
+simple_bank/.github
+app.env
+simple_bank/docker-compose.yml
+simple_bank/eks
+rssagg/rssagg.exe
+rssagg/.env
